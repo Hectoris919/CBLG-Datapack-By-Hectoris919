@@ -1,6 +1,6 @@
 # CBLG Datapack by Hectoris919
 
-This datapack adds fast, compact logic gates to Minecraft 1.16 and up in the form of command blocks.
+This datapack adds fast, compact logic gates to Minecraft 1.16+ in the form of command blocks.
 
 When I say these things are fast, I mean that they work almost instentaniously ( They run as fast as your game can run, making them literally the quickest logic gates in Minecraft ).
 
