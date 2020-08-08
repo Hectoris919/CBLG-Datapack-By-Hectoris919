@@ -1,7 +1,7 @@
 # CBLG Datapack by Hectoris919
 
 
-# Troubleshooting:
+# FAQs:
 ---
 
 ***"The file I downloaded doesn't work! Help!"***
