@@ -12,8 +12,14 @@
 
 Ah, ok. Thank you for being more specific.
 
-This is a common mistake that is easy to fix. You may notice that 
+This is an easy mistake to make. You may notice that clicking the "Clone or Download" button downloads a file called "CBLG-Datapack-by-Hectoris919.zip" (note the dashes between the words)
 
-Because of the way GitHub zips up files for download, just placing the zip file you get by clicking the Clone or Download into your world's datapack folder will not cause it to be recognized by Minecraft.
+Unfortunatly, because GitHub places the files in a folder in the .zip files you download, just placing the zip file you get by clicking the "Clone or Download" into your world's datapack folder will not cause it to be recognized by Minecraft. There are two methods for fixing this:
 
-Click on the "CBLG Datapack by Hectoris919.zip" file in this repository and then click the download button to the right of the file to download a version you can just drop into. Notice that the downloaded file is named "CBLG Datapack by Hectoris919.zip," not "CBLG-Datapack-by-Hectoris919.zip"
+***Method 1:***
+
+Click on the "CBLG Datapack by Hectoris919.zip" file in this repository and then click the download button to the right of the file. Notice that the file you just downloaded is named "CBLG Datapack by Hectoris919.zip," not "CBLG-Datapack-by-Hectoris919.zip". This file should be recognized by minecraft and you should be able to use this datapack in your world.
+
+***Method 2:***
+
+Take the file downloaded from clicking the "Clone or Download" button and extract it. You should see a folder named
