@@ -1,5 +1,12 @@
 # CBLG Datapack by Hectoris919
 
+This datapack adds fast, compact logic gates to Minecraft in the form of command blocks.
+
+When I say these things are fast, I mean that they work almost instentaniously ( They run as fast as your game can run, making them literally the quickest logic gates in Minecraft ).
+
+Here's a link to a video I put together to showcasing how to use these Command Block Logic Gates ( Otherwise known as CBLGs ):
+
+https://youtu.be/XetdsAaempU
 
 # FAQs:
 ---
@@ -12,7 +19,7 @@
 
 >Ah, ok. Thank you for being more specific.
 >
->This is an easy mistake to make. You may notice that clicking the "Clone or Download" button downloads a file called "CBLG-Datapack-by-Hectoris919.zip" (note the dashes between the words)
+>This is an easy mistake to make. You may notice that clicking the "Clone or Download" button downloads a file called "CBLG-Datapack-by-Hectoris919.zip" ( note the dashes between the words )
 >
 >Unfortunatly, because GitHub places the files in a folder in the .zip files you download, just placing the zip file you get by clicking the "Clone or Download" into your world's datapack folder will not cause it to be recognized by Minecraft. There are two methods for fixing this:
 >
@@ -29,4 +36,4 @@
 >For bugs regarding this datapack, please create a new issue in the Issues tab. I look through every post and will address the issue eventually.
 For suggestions, please create a pull request in the Pull Requests tab. As stated above, I look through every post and will consider your suggestions.
 >
->Please, for every bug or suggestion you have for this datapack, give your posts a good title that will catch my attention (but also, please for the love of God don't type LIKE THIS or lIkE ThIs!!! It makes me think you are shouting at me and makes me consider not looking at your post). Also, I would appreciate it if you would be detailed in your description of said bug or suggestion. I can't fix anything if I don't know what exactly needs fixing.
+>Please, for every bug or suggestion you have for this datapack, give your posts a good title that will catch my attention **(but also, please for the love of God don't type LIKE THIS or lIkE ThIs!!! It makes me think you are shouting at me and makes me consider not looking at your post )**. Also, I would appreciate it if you would be detailed in your description of said bug or suggestion. I can't fix anything if I don't know what exactly needs fixing.
