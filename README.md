@@ -8,7 +8,7 @@
 
 ...? I might be able to help you out if you were a little more specific
 
- ***"Ok, Ok. I put the file into the datapacks folder of my minecraft world but it wasn't detected when I used the /reload command."***
+ ***"I put the file into the datapacks folder of my minecraft world but it wasn't detected when I used the /reload command."***
 
 Ah, ok. Thank you for being more specific.
 
@@ -23,3 +23,6 @@ Click on the "CBLG Datapack by Hectoris919.zip" file in this repository and then
 ***Method 2:***
 
 Take the file downloaded from clicking the "Clone or Download" button and extract it. You should see a folder named "CBLG-Datapack-by-Hectoris919-master." Inside this folder is both this README.md file and the CBLG Datapack by Hectoris919.zip file. Copy the .zip into your world's datapack folder and reload your world. You should now be able to use this datapack
+
+***"I have a bug/suggestion to report. Where can I put it?"***
+
