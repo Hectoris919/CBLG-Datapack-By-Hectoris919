@@ -37,3 +37,11 @@ https://youtu.be/XetdsAaempU
 For suggestions, please create a pull request in the Pull Requests tab. As stated above, I look through every post and will consider your suggestions.
 >
 >Please, for every bug or suggestion you have for this datapack, give your posts a good title that will catch my attention **(but also, please for the love of God don't type LIKE THIS or lIkE ThIs!!! It makes me think you are shouting at me and makes me consider not looking at your post )**. Also, I would appreciate it if you would be detailed in your description of said bug or suggestion. I can't fix anything if I don't know what exactly needs fixing.
+
+# Minor Changes as of 1.16.2:
+
+\- Changed the pack file's version from 5 to 6
+
+\- Added a thumbnail for the datapack (pack.png)
+
+\- Fixed minor spelling and grammer errors
