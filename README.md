@@ -4,7 +4,9 @@ This datapack adds fast, compact logic gates to Minecraft 1.16+ in the form of c
 
 When I say these things are fast, I mean that they work almost instentaniously ( They run as fast as your game can run, making them literally the quickest logic gates in Minecraft ).
 
-Here's a link to a video I put together to showcasing how to use these Command Block Logic Gates ( Otherwise known as CBLGs ):
+Here's a link to a video I put together to showcasing how to use these Command Block Logic Gates ( Otherwise known as CBLGs ).
+
+I apologize in advance for my poor editing skills:
 
 https://youtu.be/XetdsAaempU
 
